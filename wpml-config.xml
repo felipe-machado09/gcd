@@ -1,0 +1,26 @@
+<!-- 
+cmsmasters_package: Magazilla
+cmsmasters_version: 1.0.0
+-->
+<wpml-config>
+    <admin-texts>
+        <key name="cmsmasters_options_magazilla_header">
+            <key name="magazilla_header_top_line_short_info" />
+            <key name="magazilla_header_top_line_donations_but_text" />
+            <key name="magazilla_header_donations_but_text" />
+            <key name="magazilla_header_add_cont_cust_html" />
+        </key>
+		<key name="cmsmasters_options_magazilla_footer">
+            <key name="magazilla_footer_html" />
+            <key name="magazilla_footer_copyright" />
+        </key>
+		<key name="cmsmasters_options_magazilla_single_project">
+            <key name="magazilla_portfolio_project_details_title" />
+        </key>
+		<key name="cmsmasters_options_magazilla_single_profile">
+            <key name="magazilla_profile_post_details_title" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
